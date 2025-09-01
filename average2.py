@@ -5,5 +5,7 @@ tree4= 95
 tree5= 11
 
 sum= tree1+ tree2+ tree3+ tree4 + tree5
-print(" The Average Height of The Trees is", sum)
+print(" The Sum of all The Trees is", sum)
 average= sum/5
+print("The Average Height of the trees is:", average)
+
